@@ -1,6 +1,12 @@
-<div align="center">
+<div align="left">
 
-# 🌸 Hey, I'm Bhagyashri!
+#  Hey, I'm Bhagyashri!
+
+- 🔭 I’m currently working on Data science projects.
+- 🌱 I’m currently learning GenAI.
+- 👯 I’m looking to collaborate on any end to end Data science project.
+- 📫 How to reach me: bhagyashariashtekar1@gmail.com
+- 💭 Quote: IN A WORLD FULL OF DATA, YOU HAVE THE UNIQUE ABILITY TO FIND THE TRUTH.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Data+Science+Explorer+%F0%9F%93%8A;Always+Learning+%26+Building+%F0%9F%9A%80" />
 
@@ -24,13 +30,14 @@ class Bhagyashri:
 
         self.languages = [
             "Python",
-            "C++",
-            "Java"
+            "R",
+            "SQL"
         ]
 
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
+            "Natural Language Processing",
             "Data Science",
             "Problem Solving",
             "Open Source"
@@ -55,7 +62,9 @@ class Bhagyashri:
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+
+
 
 <br><br>
 
