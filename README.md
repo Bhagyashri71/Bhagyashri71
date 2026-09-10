@@ -94,9 +94,9 @@ class Bhagyashri:
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/stats.svg" width="44.5%" />
 
-<img src="./profile/top-langs.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="40%" />
 
 </div>
 
