@@ -122,15 +122,6 @@ class Bhagyashri:
 
 ---
 
-## 🐍 Contribution Snake
-
-<br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/Bhagyashri71/Bhagyashri71/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🌱 Currently
 
 <div align="center">
